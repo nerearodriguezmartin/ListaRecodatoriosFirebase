@@ -23,3 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # ListaRecodatoriosFirebase
+link en producción: https://directed-truck-302422.web.app
